@@ -1,0 +1,6 @@
+pizza,3.0,tomatochees,6,E:\Images\pizza.png
+mmm,5.0,mjgukyf,9,E:\Images\pasta.png
+uirewkj,6.0,klaskjaw,5,E:\Images\pasta.png
+pasta,5.0,makarronytomatopakdones,5,E:\Images\pasta.png
+wsjswj,5.0,deklsefjk,5,E:\Images\pizza.png
+batata,6.0,potato,2,E:\Images\pasta.png

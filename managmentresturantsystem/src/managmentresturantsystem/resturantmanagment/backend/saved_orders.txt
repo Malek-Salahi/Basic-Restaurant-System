@@ -1,0 +1,41 @@
+Order Type: Dine In
+Order Details:
+pasta x 1 = $5.0
+
+Total: $5.0
+
+Order Type: Take Away
+Order Details:
+pizza x 2 = $6.0
+pasta x 2 = $10.0
+
+Total: $16.0
+
+Order Type: Delivery
+Order Details:
+pizza x 3 = $9.0
+pasta x 1 = $5.0
+
+Total: $14.0
+
+Order Type: Take Away
+Order Details:
+pizza x 2 = $6.0
+pasta x 1 = $5.0
+
+Total: $11.0
+
+Order Type: Delivery
+Order Details:
+pizza x 3 = $9.0
+batata x 3 = $18.0
+
+Total: $27.0
+
+Order Type: Take Away
+Order Details:
+pizza x 2 = $6.0
+pasta x 1 = $5.0
+
+Total: $11.0
+

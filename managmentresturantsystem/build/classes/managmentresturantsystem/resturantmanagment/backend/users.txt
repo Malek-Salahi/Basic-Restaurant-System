@@ -1,0 +1,2 @@
+customer,password1,customer
+employee,password2,employee

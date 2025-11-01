@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/managmentresturantsystem/src/managmentresturantsystem/resturantmanagment/backend/menu_items.txt</file>
+            <file>file:/D:/managmentresturantsystem/src/managmentresturantsystem/resturantmanagment/panels/AddItemPanel.java</file>
+            <file>file:/D:/managmentresturantsystem/src/managmentresturantsystem/resturantmanagment/backend/Order.java</file>
+            <file>file:/D:/managmentresturantsystem/src/managmentresturantsystem/resturantmanagment/backend/InvalidOrderException.java</file>
+            <file>file:/D:/managmentresturantsystem/src/managmentresturantsystem/resturantmanagment/panels/EmployeeDashboardPanel.java</file>
+            <file>file:/D:/managmentresturantsystem/src/managmentresturantsystem/resturantmanagment/panels/MenuPanel.java</file>
+            <file>file:/D:/managmentresturantsystem/src/managmentresturantsystem/resturantmanagment/backend/FileManager.java</file>
+            <file>file:/D:/managmentresturantsystem/src/managmentresturantsystem/resturantmanagment/panels/LoginPanel.java</file>
+            <file>file:/D:/managmentresturantsystem/src/managmentresturantsystem/resturantmanagment/backend/OrderManager.java</file>
+            <file>file:/D:/managmentresturantsystem/src/managmentresturantsystem/resturantmanagment/backend/saved_orders.txt</file>
+            <file>file:/D:/managmentresturantsystem/src/managmentresturantsystem/resturantmanagment/backend/Payment.java</file>
+            <file>file:/D:/managmentresturantsystem/src/managmentresturantsystem/resturantmanagment/panels/OrderHistoryPanel.java</file>
+            <file>file:/D:/managmentresturantsystem/src/managmentresturantsystem/resturantmanagment/ApplicationController.java</file>
+            <file>file:/D:/managmentresturantsystem/src/managmentresturantsystem/resturantmanagment/ManagmentResturantsystem.java</file>
+            <file>file:/D:/managmentresturantsystem/src/managmentresturantsystem/resturantmanagment/backend/UserManager.java</file>
+            <file>file:/D:/managmentresturantsystem/src/managmentresturantsystem/resturantmanagment/backend/users.txt</file>
+            <file>file:/D:/managmentresturantsystem/src/managmentresturantsystem/resturantmanagment/backend/User.java</file>
+            <file>file:/D:/managmentresturantsystem/src/managmentresturantsystem/resturantmanagment/backend/Dish.java</file>
+        </group>
+    </open-files>
+</project-private>
